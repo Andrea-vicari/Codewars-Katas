@@ -11,7 +11,7 @@ Codewars is an educational community for computer programming. On the platform, 
 ##
 
 
-### List of Katas .js files
+### List of <a href="katas_js"> Katas</a> .js files
 In this repo You can find .js files of some Katas i solved while i was attending Javascript course.<br>
 ###
 
